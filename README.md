@@ -2,13 +2,13 @@
 ANDAL Thomas
 MAALEJ Achraf
 
-### Ë propos ###
+### A propos ###
 
 Titre du Projet : Système de recommandation des films 
 
-Mèthodes développées : - Filtrages collaboratifs basés sur les films et les utilisateurs
-
-		       - Filtrages basés sur le contenu des films et des utilisateurs
+Méthodes développées : 
+- Filtrages collaboratifs basés sur les films et les utilisateurs
+- Filtrages basés sur le contenu des films et des utilisateurs
 
 ### Pour commencer ###
 Ce dossier contient le fichier main.ipnyb et deux dossiers qui contiennent les bases de données 100k et 1m de Movie-Lense. 
